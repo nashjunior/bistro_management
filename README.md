@@ -1,8 +1,8 @@
-# __Bistro management
+# **Bistro management**
 Managing restaurant system, for both stock control and order control
 
 
-## __Used tecnologies
+## *Used tecnologies*
 -Nodejs
 -Reactjs
 -Yup
@@ -12,7 +12,7 @@ Managing restaurant system, for both stock control and order control
 1. Hand made components
 2. Responsive design
 
-## __Possible Future Tecnologies
+## *Possible Future Tecnologies*
 -React Native
 -Redux
 
