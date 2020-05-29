@@ -1,4 +1,4 @@
-#__Bistro management
+# __Bistro management
 Managing restaurant system, for both stock control and order control
 
 
