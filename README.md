@@ -16,5 +16,5 @@ Managing restaurant system, for both stock control and order control
 - React Native
 - Redux
 
-#Installation Module
+# Installation Module
 In progress
